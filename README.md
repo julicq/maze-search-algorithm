@@ -1,3 +1,3 @@
 # maze-search-algorithm
 
-Depth Search Algorithm vs Breadth Search Algorithm in an example of researching a Maze for solution
+Depth-First Algorithm vs Breadth-First Algorithm in an example of researching a Maze for solution
